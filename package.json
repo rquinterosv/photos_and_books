@@ -1,0 +1,14 @@
+{
+  "name": "photos_books",
+  "version": "1.0.0",
+  "description": "Inspired to generate motivation and share knowledge, in this web app you can post photos of landscapes and reference a path from books that you have read. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Quinteros",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
